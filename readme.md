@@ -1,7 +1,7 @@
 When trying to import this repository, the bitrise's import wizard stops (possibly due to the FATAL status by the xamarin scanner before). Deleting the solution files `.sln` solves the problem.
 
 From this stage, the end-user has no way to recover in the UI.
-![Failed Import](screnshot.png)
+![Failed Import](screenshot.png)
 
 Here are the logs:
 
